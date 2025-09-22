@@ -32,6 +32,7 @@ cd frontend
 npm run dev
 
 Testing
+
 Frontend E2E (Playwright)
 cd frontend
 first time only:
@@ -42,3 +43,4 @@ npm run test:e2e
 Backend (Jest)
 cd backend
 npm test
+
