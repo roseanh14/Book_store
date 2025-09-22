@@ -13,7 +13,7 @@ Backend is Node.js + Express + MongoDB (Mongoose) with middleware, CORS, and RES
 - Tested with Playwright (E2E, frontend) and Jest (backend)
 - Easy API testing via Postman/Insomnia
 
-Install dependencies
+# Install dependencies
 backend
 cd backend
 npm install
@@ -31,8 +31,7 @@ frontend
 cd frontend
 npm run dev
 
-Testing
-
+# Testing
 Frontend E2E (Playwright)
 cd frontend
 first time only:
@@ -43,5 +42,6 @@ npm run test:e2e
 Backend (Jest)
 cd backend
 npm test
+
 
 
