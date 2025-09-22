@@ -14,20 +14,20 @@ Backend is Node.js + Express + MongoDB (Mongoose) with middleware, CORS, and RES
 - Easy API testing via Postman/Insomnia
 
 Install dependencies
-# backend
+backend
 cd backend
 npm install
 
-# frontend
+frontend
 cd frontend
 npm install
 
 Start development servers
-# backend 
+backend
 cd backend
 npm run dev
 
-# frontend 
+frontend
 cd frontend
 npm run dev
 
@@ -43,4 +43,5 @@ npm run test:e2e
 Backend (Jest)
 cd backend
 npm test
+
 
